@@ -1,4 +1,4 @@
-# MetInfo 5.3.17 PV statistics sitepage XSS #
+# MetInfo 5.3.17 directory traversal vulnerability #
 
 
 ## 1.Technical Description: ##
